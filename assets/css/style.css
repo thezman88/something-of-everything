@@ -1,7 +1,31 @@
-#head {
-  height: auto;
-  font-family: 'Ubuntu', sans-serif;
-  background-color: #a7d7c5;
+#brandStatment{
+  height: 300px;
+  width: 100%;
+  text-align: center;
+  background-color: #add2c9;
   color: #fffafa;
+}
+#pictureSection{
+  height: 150px;
+  width: 100%;
 
+}
+#hi{
+  height: 100%;
+}
+#cell1{
+  background-image: url(https://images.pexels.com/photos/1394748/pexels-photo-1394748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size:600px;
+  
+
+}
+#cell2{
+  background-image: url(https://images.pexels.com/photos/802221/pexels-photo-802221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: 500px;
+  background-position: center;
+}
+#cell3{
+  background-image: url(https://images.pexels.com/photos/2480807/pexels-photo-2480807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: 500px;
+  background-position: center;
 }
